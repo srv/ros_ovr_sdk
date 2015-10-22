@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
-  <name>ros_ovr_sdk</name>
+  <name>oculus_sdk</name>
   <version>0.0.1</version>
-  <description>The ros_ovr_sdk package</description>
-  <maintainer email="rebhuhnd@onid.oregonstate.edu">rebhuhnd</maintainer>
+  <description>Oculus SDK 0.5.0.1 package</description>
+  <maintainer email="miquel.massot@gmail.com">Miquel Massot</maintainer>
 
   <license>MIT</license>
 
